@@ -1,11 +1,11 @@
 # TowerDefence
 TowerDefence Game made by using Unity, c#
 
-**Order of Sections:**                                        line#
-Why Tower Defense Game? ---------------------------------------10
-What did I gained through this game project?-------------------17
-Further Plan with this Game Project?---------------------------29
-Game Component explanation-------------------------------------40
+**Order of Sections:**<br />
+Why Tower Defense Game? <br />
+What did I gained through this game project?<br />
+Further Plan with this Game Project?<br />
+Game Component explanation<br />
 
 ------------------------------------------------------
 **Why Tower Defense Game?**

@@ -11,7 +11,7 @@ Game Component explanation<br />
 ------------------------------------------------------
 **Why Tower Defense Game?**
 ------------------------------------------------------
-While I was working on my first personal project(which is 2d horror platformer game), I felt that I was spending so much time on the conflict I faced during designing the 2d horror platformer game though I need to create some games to improve & prove my skills. Hence, I decided to proceed to next game project, and thought it will be good for me if I create a game that players can play multiple times with a single system, like league of legends, tetris, etc..
+While I was working on my first personal project(which is 2d horror platformer game), I felt that I was spending so much time on the conflict I faced during designing the 2d horror platformer game. However, I needed to create some games to improve & prove my Unity scripting skills, so I decided to proceed to next game project. I thought it will be good for me if I create a game that players can play multiple times with a single system, like tetris or puzzle games, etc..
 While considering what type of game to create, tower defense genre caught my eye.
 
 ------------------------------------------------------

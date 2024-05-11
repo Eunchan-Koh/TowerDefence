@@ -19,12 +19,12 @@ While considering what type of game to create, tower defense genre caught my eye
 ------------------------------------------------------
 I learned how to design a game system and it's importance.
 First, I created a simple tower that shots a bullet with basic damage every 1 second.
-Then, when I tried to create a second tower, I realised that it is much better to set the basic tower as parent class and rest towers as child classes since most towers share the same components, except for some specific components.
-Just like that, I've done the same work for the bullets since I needed to have several types of bullets. Most of them needed to have different shape, and some needed to stay even after hitting enemy. Also, some of them needed to create other gameObjects or effects. It sounded a bit different in the beginning, but they still were all bullets.
+Then, when I tried to create a second tower, I realized that it is much better to set the basic tower as parent class and rest towers as child classes since most towers share the same components, except for some specific components.
+Just like that, I've done the same work for the bullets since I needed to have several types of bullets. Most of them needed to have different shape, and some needed to stay active even after hitting an enemy. Also, some of them needed to create other gameObjects or effects.
 
-After having such game programming design, I was able to increase the work speed. Time required to create a new type of tower has been shortened! Also, I was able to find any errors occurred during programming much easily by doing so. It felt like programming is about how well I can organize the components of the game to make better game system architecture.
+After having such architecture, I was able to increase the work speed. Time required to create a new type of tower has been shortened! Also, I was able to find any errors occurred during programming much easily by doing so. It felt like how well I can make an architecture of a game is about how well I can organize the components of the game. To control everything of the system, it is obviously better to have well organized systems. 
 
-I was able to enjoy the whole process, and also, it was really meaningful to me since all these experiences and things I realized were impressive to me.
+I was able to enjoy the whole process, and also, it was really meaningful for me since all these experiences and things I realized during working on project were impressive.
 
 ------------------------------------------------------
 **Further Plan with this Game Project?**
